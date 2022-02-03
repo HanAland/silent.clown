@@ -1,8 +1,33 @@
 h1 {
-    color : #FBF8F1;
+    color : #FA4EAB;
     text-align: center;
 }
+
 p {
-    color : #E9DAC1;
+    color : #323232;
     text-align: center;
+}
+
+button {
+    background-color: #FA4EAB;
+    color: #323232;
+}
+
+body {
+    background-image: url('Image/background.jpg');
+    
+}
+
+.container {
+    margin: 25px;
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
+    text-align: center;
+    
+}
+table {
+    width: fit-content;
+    height: fit-content;
+    justify-content: center;
 }
