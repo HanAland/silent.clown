@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: antiquewhite;
+    background-color: black;
+}
+body {
+    background-image: url('/Math/image/background.jpeg');
+    
+}
+p {
+    background-color: red;
+    text-align: center;
+}
