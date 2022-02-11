@@ -1,7 +1,13 @@
+function multiplication() {
 
-
-for(let i = 2; i <= 9; i++) {
-    for(let j = 1; j <= 9; j++) {
-        console.log(i + ' * ' + j + ' = ' + i * j);
+    for(let i = 2; i <= 9; i++) {
+        for(let j = 1; j <= 9; j++) {
+            console.log(i + ' * ' + j + ' = ' + i * j);
+        }
     }
+
+}
+
+function clear_data() {
+    document.getElementById('multiplication()')
 }
